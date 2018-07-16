@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name test5)(type KiCad)(uri /home/yovan/Documents/electronics/kicad/test5/test5)(options "")(descr ""))
+  (lib (name library)(type KiCad)(uri /usr/share/kicad/library)(options "")(descr ""))
+  (lib (name lm386_headphones_amplifier)(type KiCad)(uri /home/yovan/Documents/electronics/kicad/lm386_headphones_amplifier)(options "")(descr ""))
+)
